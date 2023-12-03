@@ -1,2 +1,3 @@
 # Sanjana
-read
+working area 
+repository
